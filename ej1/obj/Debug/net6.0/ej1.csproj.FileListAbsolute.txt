@@ -1,0 +1,15 @@
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\ej1.csproj.AssemblyReference.cache
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\ej1.AssemblyInfoInputs.cache
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\ej1.AssemblyInfo.cs
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\ej1.csproj.CoreCompileInputs.cache
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\bin\Debug\net6.0\ej1.exe
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\bin\Debug\net6.0\ej1.deps.json
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\bin\Debug\net6.0\ej1.runtimeconfig.json
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\bin\Debug\net6.0\ej1.dll
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\bin\Debug\net6.0\ej1.pdb
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\ej1.dll
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\refint\ej1.dll
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\ej1.pdb
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\ej1.genruntimeconfig.cache
+C:\Users\byron\OneDrive\Escritorio\poo\ej1\obj\Debug\net6.0\ref\ej1.dll

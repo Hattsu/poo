@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\VISUAL\juevestutoria\bin\Debug\net6.0\juevestutoria.exe
+C:\Users\USER\Desktop\VISUAL\juevestutoria\bin\Debug\net6.0\juevestutoria.deps.json
+C:\Users\USER\Desktop\VISUAL\juevestutoria\bin\Debug\net6.0\juevestutoria.runtimeconfig.json
+C:\Users\USER\Desktop\VISUAL\juevestutoria\bin\Debug\net6.0\juevestutoria.dll
+C:\Users\USER\Desktop\VISUAL\juevestutoria\bin\Debug\net6.0\juevestutoria.pdb
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\juevestutoria.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\juevestutoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\juevestutoria.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\juevestutoria.AssemblyInfo.cs
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\juevestutoria.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\juevestutoria.dll
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\refint\juevestutoria.dll
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\juevestutoria.pdb
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\juevestutoria.genruntimeconfig.cache
+C:\Users\USER\Desktop\VISUAL\juevestutoria\obj\Debug\net6.0\ref\juevestutoria.dll
